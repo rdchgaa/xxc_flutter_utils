@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:heqian_flutter_utils/heqian_flutter_utils.dart';
+import 'package:xxc_flutter_utils/xxc_flutter_utils.dart';
 
 typedef OnLoadingCallError = Future<dynamic> Function(BuildContext context, dynamic error);
 typedef OnShowError = void Function(dynamic message);

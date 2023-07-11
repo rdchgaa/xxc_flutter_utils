@@ -1,4 +1,4 @@
-library heqian_flutter_utils;
+library xxc_flutter_utils;
 
 export 'src/toast.dart';
 export 'src/loading.dart';

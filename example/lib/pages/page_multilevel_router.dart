@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:heqian_flutter_utils/heqian_flutter_utils.dart';
+import 'package:xxc_flutter_utils/xxc_flutter_utils.dart';
 
 bool checkRouter(AppRouterData route, [String path = "/routerPage/"]) => route?.path?.startsWith(path) ?? false;
 
